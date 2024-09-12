@@ -1,3 +1,15 @@
+/* src/index.css */
+
+/* Import the font definitions */
+@import './fonts.css';
+
+/* Import Tailwind's base styles, components, and utilities */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Optional: Add any global styles or overrides */
+body {
+  margin: 0;
+  font-family: 'Glitch', sans-serif; /* Apply font globally if desired */
+}

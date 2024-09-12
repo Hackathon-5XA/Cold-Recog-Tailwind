@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+  font-family: 'Glitch';
+  src: url('../public/fonts/glitch.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -34,6 +34,7 @@ module.exports = {
       fontFamily: {
         bakbak: ['"Bakbak One"', 'sans-serif'],
         k2d: ['"K2D"', 'sans-serif'],
+        glitch: ['Glitch', 'sans-serif'],
       },
       colors: {
         teal: {
